@@ -1,5 +1,5 @@
 # Hanoi_Tower
-Case study for recursion in Python
+A case study for recursion in Python
 
 Tower of Hanoi is a mathematical puzzle where we have three rods and n disks. The objective of the puzzle is to move the entire stack to another rod, obeying the following simple rules: 
 
